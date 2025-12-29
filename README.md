@@ -183,4 +183,4 @@ public class CourseController {
 
 <img width="1135" height="140" alt="链接" src="https://github.com/user-attachments/assets/1fb70f8b-2a8f-40e6-854d-ffc7248f8897" />
 
-若资源获取失败，可添加happy35596339(vx)或1204901965(qq)进行交流
+若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
