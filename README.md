@@ -179,8 +179,6 @@ public class CourseController {
 
 ### 获取方式(可远程调试)
 
-访问链接(在浏览器中手动输入下图中的地址)：
-
-<img width="1135" height="140" alt="链接" src="https://github.com/user-attachments/assets/1fb70f8b-2a8f-40e6-854d-ffc7248f8897" />
+访问链接：https://mbd.pub/o/bread/mbd-YZWakp9vag==
 
 若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
